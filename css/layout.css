@@ -1,0 +1,9 @@
+#footer{
+	width: 100%;
+}
+#footer .footer_link, #footer .footer_copyright {
+	text-align: center;
+}
+#footer .footer_link a {
+	padding: 0 5px;
+}

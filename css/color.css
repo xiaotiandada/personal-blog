@@ -1,0 +1,6 @@
+#footer {
+	background-color: #586274;
+}
+#footer .footer_link, #footer .footer_link a, #footer .footer_copyright, #footer .footer_copyright a {
+	color: #949eae;
+}

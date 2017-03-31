@@ -1,0 +1,6 @@
+#footer .footer_link a, #footer .footer_copyright a {
+	text-decoration: none;
+}
+#footer .footer_link a:hover, #footer .footer_copyright a:hover {
+	text-decoration: underline;
+}
